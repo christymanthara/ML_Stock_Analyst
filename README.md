@@ -1,0 +1,1 @@
+A project to learn the use of Yahoo Finance API for the purpose of stock market data analysis and give the user a proper prediction using a model.
